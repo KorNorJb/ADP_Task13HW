@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.4">
   <diagram name="Страница-1" id="sbzPL6dS0oG4mRa5-nkP">
-    <mxGraphModel dx="1213" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="298" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X0drHGX9x-qPXrLHSuQh-5" edge="1" parent="1" source="X0drHGX9x-qPXrLHSuQh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" target="X0drHGX9x-qPXrLHSuQh-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X0drHGX9x-qPXrLHSuQh-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Читатель" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="X0drHGX9x-qPXrLHSuQh-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Библиотекарь" vertex="1">
+          <mxGeometry height="60" width="30" x="170" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="X0drHGX9x-qPXrLHSuQh-6" edge="1" parent="1" source="X0drHGX9x-qPXrLHSuQh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" target="X0drHGX9x-qPXrLHSuQh-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X0drHGX9x-qPXrLHSuQh-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
+          <mxGeometry height="60" width="30" x="260" y="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
